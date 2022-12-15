@@ -1,0 +1,10 @@
+# Homework: Javascript II
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`  = Es un caja donde vamos a decir cuantas veces queremos que el codigo se repita y como. Siempre lleva una Variable, luego un condición y de último en cuanto queremos que se aumente cada véz en cada ejecutacion o programa.
+
+        
+* `&&`, `||`, `!`  = En el simbolo "&&" se usa para decir "y" o "And" cuando queremos mencionar varias cosas a la vez. El simbolo "||" significan "ó" ó "OR" y se usan para que el programa ejecute un elemento o el otro. El simbolo "!" significa "no" o "NOT" y se usa para tener una respuesta opuesta o negativa.
